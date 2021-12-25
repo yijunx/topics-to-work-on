@@ -10,4 +10,4 @@ well i am a noob
 * security in TCP
 * cookie and session
 * rpc and service mesh
-* heap and tree
+* heap and tree https://www.cnblogs.com/lanhaicode/p/10546257.html
